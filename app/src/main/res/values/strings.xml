@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">中科app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="main_navigation_home">首页</string>
+    <string name="main_navigation_im">选房清单</string>
+    <string name="main_navigation_interest">看房日程</string>
+    <string name="main_navigation_user">我的</string>
+</resources>
